@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:latest
 
 LABEL maintainer="Adrien Ferrand <ferrand.ad@gmail.com>"
 
